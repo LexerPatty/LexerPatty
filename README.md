@@ -30,6 +30,24 @@
 <br/>
 <br/>
 
+
+<h1 align="center">Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h1> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+
+<h3 align="left">Latest Achievements</h3>
+<ul align="left">
+  <li><a href="https://www.linkedin.com/posts/rhitam-chaudhury-66b17b248_amazonmlsummerschool-machinelearning-ai-activity-7213810449060888577-XO7g?utm_source=share&utm_medium=member_desktop">Member of Amazon ML Summer School '24</a></li>
+  <li><a href="https://www.linkedin.com/posts/rhitam-chaudhury-66b17b248_sih2023-smartindiahackathon2023-aicte-activity-7146450274608472065-wtw2?utm_source=share&utm_medium=member_desktop">Smart India Hackathon 2023 Finalist</a></li>
+  <li><a href="https://www.linkedin.com/posts/rhitam-chaudhury-66b17b248_gdsc-googledevelopers-coreabrmember-activity-7099090957748363264-QLXa?utm_source=share&utm_medium=member_desktop">Google DSC Core Member of our college</a></li>
+</ul>
+
+
+
 <!--Languages and Tools Section-->       
 <h1 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h1> 
 
