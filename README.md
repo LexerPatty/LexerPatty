@@ -62,6 +62,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+
 
 <!--Languages and Tools Section-->       
 <h1 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h1> 
