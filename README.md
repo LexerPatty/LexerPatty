@@ -6,6 +6,7 @@
 *Tech Aficionado (Developer / Programmer)*
 </br>
 
+
 <div>
   <img align="right" width="35%" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
 </div>
