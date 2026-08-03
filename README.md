@@ -25,7 +25,7 @@
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=LexerPatty&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code%20Time-1000%2B%20hrs-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code%20Time-5000%2B%20hrs-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/50K%2B-Lines%20of%20Code-blueviolet?style=for-the-badge" />
 </p>
 
