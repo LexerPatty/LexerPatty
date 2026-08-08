@@ -10,7 +10,7 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a deep passion for React.js, Node.js, REST APIs, Java, and Python.</p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a deep passion for React.js, REST APIs, Java, and Python.</p>
 
 - 🚀 Building **Agentic AI Systems** & Intelligent Automation
 - 🤖 Exploring **LLMs, RAG, Multi-Agent Systems & Robotics**
